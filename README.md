@@ -8,4 +8,4 @@ powershell.exe Invoke-WebRequest https://raw.githubusercontent.com/juanmanuelorg
 
 # PS
 
-powershell.exe Invoke-WebRequest https://raw.githubusercontent.com/juanmanuelorgaz/sngular/master/scriptps.ps1 -OutFile $env:windir\Temp\scriptps.ps1 && powershell.exe $env:windir\Temp\scriptps.ps1
+powershell.exe Invoke-WebRequest https://raw.githubusercontent.com/juanmanuelorgaz/sngular/master/scriptps.ps1 -OutFile .\scriptps.ps1 && powershell.exe .\scriptps.ps1
