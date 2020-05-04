@@ -20,4 +20,5 @@ mdfind -onlyin "/Applications" -name "Limeware" | xargs rm -rf
 mdfind -onlyin "/Applications" -name "Kazaa" | xargs rm -rf
 mdfind -onlyin "/Applications" -name "iMesh" | xargs rm -rf
 mdfind -onlyin "/Applications" -name "uTorrent" | xargs rm -rf
+mdfind -onlyin "/Applications" -name "uTorrent Web" | xargs rm -rf
 mdfind -onlyin "/Applications" -name "BitTorrent" | xargs rm -rf
