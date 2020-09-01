@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"legalnoticecaption"="Sngular"
+"legalnoticetext"="Por favor, ponte en contacto con juanmanuel.orgaz@sngular.com por chat o mail. Para registrar tu equipo en nuestros sistemas. Gracias."
